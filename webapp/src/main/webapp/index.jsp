@@ -1,2 +1,2 @@
-<h1 style="background-color:DodgerBlue;">Hi Jyothi!</h1>
-<p style="background-color:Tomato;">I Love you My Chubby girl!</p>
+<h1 style="font-size:300%;">Hi Jyothi!</h1>
+<p style="font-size:160%;">I Love You My Dear Chubby girl!.</p>
