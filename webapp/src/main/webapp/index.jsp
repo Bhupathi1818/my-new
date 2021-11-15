@@ -2,18 +2,8 @@
 
 <html>
 	<head>
-		<title>
-			First Web Page
-		</title>
-		<body style="background-color:powderblue;">
-
-                <h1>Hi Potty!</h1>
-                <p>What are you doing</p>
-
-          </body>
+		<h1 style="font-size:300%;">Hi Jyothi!</h1>
+                <p style="font-size:160%;">I Love You.</p>
 	</head>
 
-	<body>
-		cheppu!
-	</body>
 </html>
