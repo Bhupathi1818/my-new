@@ -1,16 +1,17 @@
+<!DOCTYPE html>
 <html>
-	
 <head>
-
+<style>
+body {
+  background-image: url('img_girl.jpg');
+}
+</style>
+</head>
 <body>
 
-<h1 style="font-size:300%;">Hi Jyothi!</h1>
-                <p style="font-size:160%;">I Love You My dear Chubby girl! </p>
+<h2>Background Image</h2>
 
+<p>By default, the background image will repeat itself if it is smaller than the element where it is specified, in this case the body element.</p>
 
 </body>
-	
-		
-	</head>
-
 </html>
