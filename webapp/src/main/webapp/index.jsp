@@ -7,13 +7,13 @@
 		</title>
 		<body style="background-color:powderblue;">
 
-                <h1>This is a heading</h1>
-                <p>This is a paragraph.</p>
+                <h1>Hi Potty!</h1>
+                <p>What are you doing</p>
 
           </body>
 	</head>
 
 	<body>
-		Hi Jyothi!
+		cheppu!
 	</body>
 </html>
